@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="s198739.example.com.hangman.HighscoreView">
+    <item android:id="@+id/menu_exit"
+        android:icon="@drawable/exitcross"
+        android:title="exit"
+        android:orderInCategory="300"
+        app:showAsAction="always"
+        />
+</menu>

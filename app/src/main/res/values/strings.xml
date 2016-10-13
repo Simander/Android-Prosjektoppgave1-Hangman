@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Hangman</string>
+
+
+    <string name="overskrift">Hangman</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hangman">Hangman</string>
+    <string name="title_activity_rules">Rules</string>
+    <string name="title_activity_highscore_view">Highscore</string>
+    <string name="title_activity_enter_score">NEW HIGHSCORE</string>
+
+    <string name="string_nu_game">New Game</string>
+    <string name="string_hiscore">Highscore</string>
+    <string name="string_lives">Lives:</string>
+    <string name="string_round">Round:</string>
+    <string name="string_points">Points:</string>
+    <string name="string_nuRound">Ready</string>
+    <string name="string_wordwas">The word was:</string>
+    <string name="string_quit">QUIT</string>
+
+    <string name="string_rules">
+        Hangman rules:\n
+        You got 6 chances to guess the correct word.\n
+        For each correct letter you guess, you will recieve one point.\n
+        If you manage to guess the entire word, you proceed to the next round.
+        You keep your points from the previous round, and you get 6 new chances.\n
+        If you cant guess the right word, you will be hanged and it is GAME OVER!
+
+    </string>
+    <string name="string_rulebutton">Rules</string>
+
+    <string name="congratulate_highscore">Congratulations!</string>
+    <string name="highscore_message">You got a highscore of:</string>
+    <string name="highscore_enteryourname">Please enter your name:</string>
+    <string name="back">back</string>
+    <string name="created_by">Created by: Anders Simonsen</string>
+
+</resources>

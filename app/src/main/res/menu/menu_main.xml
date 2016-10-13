@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/sprak_norsk"
+        android:icon="@drawable/flag_norge"
+        android:title="norsk"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/sprak_english"
+        android:icon="@drawable/flag_unionjack"
+        android:title="english"
+        android:orderInCategory="200"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/menu_exit"
+        android:icon="@drawable/exitcross"
+        android:title="exit"
+        android:orderInCategory="300"
+        app:showAsAction="always"
+        />
+
+
+
+</menu>

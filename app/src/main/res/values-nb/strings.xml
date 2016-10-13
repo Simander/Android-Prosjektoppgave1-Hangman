@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Hangman</string>
+
+
+    <string name="overskrift">Hangman</string>
+    <string name="action_settings">Instillinger</string>
+    <string name="title_activity_hangman">Hangman</string>
+    <string name="title_activity_rules">Regler</string>
+    <string name="title_activity_highscore_view">Highscore</string>
+    <string name="title_activity_enter_score">NY HIGHSCORE</string>
+
+    <string name="string_nu_game">Nytt Spill</string>
+    <string name="string_hiscore">Highscore</string>
+    <string name="string_lives">Liv:</string>
+    <string name="string_round">Runde:</string>
+    <string name="string_points">Poeng:</string>
+    <string name="string_nuRound">Klar</string>
+    <string name="string_wordwas">Ordet var:</string>
+    <string name="string_quit">Avslutt</string>
+
+    <string name="string_rules">
+        Hangman regler:\n
+        Du har 6 sjanser på å gjette riktig.\n
+        For hver bokstav du gjetter får du ett poeng.\n
+        Om du klarer å gjette riktig ord går du videre til neste runde.
+        Poengene dine fra forrige runde beholder du, og du får seks nye sjanser. \n
+        Om du ikke klarer å gjette riktig ord, så blir du hengt og det er GAME OVER!
+    </string>
+    <string name="string_rulebutton">Regler</string>
+
+    <string name="congratulate_highscore">Gratulerer!</string>
+    <string name="highscore_message">Du fikk en highscore på:</string>
+    <string name="highscore_enteryourname">Skriv inn navnet ditt:</string>
+    <string name="back">Tilbake</string>
+    <string name="created_by">Laget av: Anders Simonsen</string>
+</resources>

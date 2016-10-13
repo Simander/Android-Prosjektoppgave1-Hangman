@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="s198739.example.com.hangman" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon1"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="Hangman"
+            android:logo="@drawable/icon1"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".GameWindow"
+            android:label="@string/title_activity_hangman"
+            android:parentActivityName=".MainActivity"
+            >
+
+        </activity>
+        <activity
+            android:name=".Rules"
+            android:label="@string/title_activity_rules"
+            android:parentActivityName=".MainActivity"
+            >
+        </activity>
+        <activity
+            android:name=".HighscoreView"
+            android:label="@string/title_activity_highscore_view"
+            android:parentActivityName=".MainActivity"
+            >
+        </activity>
+        <activity
+            android:name=".EnterScore"
+            android:label="@string/title_activity_enter_score"
+            android:parentActivityName=".MainActivity"
+            >
+        </activity>
+    </application>
+
+</manifest> <!-- android:icon="@mipmap/ic_launcher" -->

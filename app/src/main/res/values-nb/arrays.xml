@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="letteOrd">
+        <item>kaffe</item>
+        <item>fotball</item>
+        <item>iskrem</item>
+        <item>melk</item>
+        <item>kode</item>
+        <item>hode</item>
+        <item>langrenn</item>
+        <item>android</item>
+        <item>apekatt</item>
+        <item>bonde</item>
+        <item>potet</item>
+        <item>geit</item>
+        <item>sau</item>
+        <item>katt</item>
+        <item>kvinne</item>
+        <item>toast</item>
+        <item>piano</item>
+        <item>gitar</item>
+        <item>kake</item>
+        <item>sopp</item>
+        <item>brød</item>
+        <item>telefon</item>
+        <item>tekanne</item>
+        <item>bly</item>
+        <item>redd</item>
+        <item>sterk</item>
+        <item>veik</item>
+
+    </string-array>
+
+    <array name="imgs">
+        <item>@drawable/hangpic1</item>
+        <item>@drawable/hangpic2</item>
+        <item>@drawable/hangpic3</item>
+        <item>@drawable/hangpic4</item>
+        <item>@drawable/hangpic5</item>
+        <item>@drawable/hangpic6</item>
+        <item>@drawable/hangpic7</item>
+    </array>
+    <array name="lives">
+        <item>@drawable/lives6</item>
+        <item>@drawable/lives5</item>
+        <item>@drawable/lives4</item>
+        <item>@drawable/lives3</item>
+        <item>@drawable/lives2</item>
+        <item>@drawable/lives1</item>
+    </array>
+</resources>
